@@ -1,0 +1,17 @@
+.bgcolor{background: #c38e67;}
+.bgcolormain{background: rosybrown;}
+.margincarousel{margin: 10px 10px;}
+.iframe{margin: 10px 10px;}
+
+h3{ text-align: center; }
+
+ul li,p{ font-style: italic; }
+
+.redes{margin-left: 10px;}
+
+@media screen and (min-width: 300px) and (max-width: 940px){
+	.iframe{ 
+		width: 290px;
+		height: 200px;
+	 }
+}
